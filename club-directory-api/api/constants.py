@@ -1,5 +1,5 @@
-SHEET_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSpuDZTPBnKX6fPmFJDikNbXhul71FCf0sg7sOs5zOd47lCO3Y5ERLTSS-FtQBXyJa25ZTFvMLoR5-h/pub?gid=0&single=true&output=csv"
-CLUB_SHEET_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSpuDZTPBnKX6fPmFJDikNbXhul71FCf0sg7sOs5zOd47lCO3Y5ERLTSS-FtQBXyJa25ZTFvMLoR5-h/pub?gid=658017674&single=true&output=csv"
+SHEET_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSvu12_mneJFsa8KaZSySzaaRnZWEPCfsayLv4fYOWozVrU42hr4xGDRHcLwXYeVnY5eEgGxPQR86LU/pub?output=csv"
+CLUB_SHEET_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSvu12_mneJFsa8KaZSySzaaRnZWEPCfsayLv4fYOWozVrU42hr4xGDRHcLwXYeVnY5eEgGxPQR86LU/pub?output=csv"
 CLASS_CAT_SHORTNAMES = ["ssci", "engl", "math", "sci", "flang", "vapa", "physed", "elect", "cllg"]
 
 WEIGHTED_DESC = "Course is given an extra grade point in GPA if the course is completed with a \"C\" or higher"
