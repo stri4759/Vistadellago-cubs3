@@ -55,4 +55,5 @@ flask
 flask-cors
 pandas
 requests
+firebase-admin
 
