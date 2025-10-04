@@ -55,5 +55,6 @@ flask
 flask-cors
 pandas
 requests
-
+firebase-admin
 昊物扥獡ⵥ摡業੮汦獡੫汦獡⵫潣獲朊潯汧ⵥ灡⵩祰桴湯挭楬湥ੴ潧杯敬挭潬摵昭物獥潴敲朊潯汧ⵥ汣畯ⵤ瑳牯条੥畮灭੹慰摮獡瀊瑹潨⵮潤整癮爊煥敵瑳�
+
