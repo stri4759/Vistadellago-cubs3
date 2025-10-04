@@ -1,7 +1,7 @@
 import os
 from flask import Flask, request, jsonify, make_response, send_file
 from flask_cors import CORS
-from api.utilities import init_curs
+from .utilities import init_curs
 from .club_util import VistaClubLookup
 from .user_util import verify_login
 from .download_video import extract_file_id
