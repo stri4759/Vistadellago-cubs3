@@ -90,5 +90,6 @@ def download_club_video():
         else:
             return jsonify({"error": f"Failed to download file. Status code: {response.status_code}"}), 500
     return send_file(destination_path, as_attachment=False)
-
+if __name__ == "__main__":
+    app.run(debug=True)
 
